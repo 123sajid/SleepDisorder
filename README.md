@@ -52,9 +52,6 @@ Before you begin, ensure you have the following installed:
 2. **Explore the Analytics page:**
    - View various visual insights and analytics derived from the sleep data.
 
-## Deployment
-
-The app is deployed on Streamlit Cloud and can be accessed [here](https://sleep-disorder-detection-app.streamlit.app/).
 
 ## Contributing
 
